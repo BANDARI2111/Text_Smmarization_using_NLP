@@ -1,4 +1,3 @@
-# Text_Smmarization_using_NLP
 # Project Overview
 This project delves into the field of **Text Summarization**, employing a variety of **Natural Language Processing (NLP)** techniques to condense lengthy documents into concise summaries while retaining their core information and context. The project explores **extractive**, **abstractive**, and **Large Language Model (LLM)**-based approaches, showcasing state-of-the-art methodologies.
 
